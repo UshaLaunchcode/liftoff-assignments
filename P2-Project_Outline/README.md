@@ -17,15 +17,15 @@ My project will be an Event Management and volunteer signup web app for nonprofi
 5. Delete Event: Users will be able to delete events.
 
 ### Technologies
- Java,
+ Java
  
- Spring Boot,
+ Spring Boot
  
- MySQL,
+ MySQL
  
- Hibernate,
+ Hibernate
  
- Thymeleaf templates,
+ Thymeleaf templates
 
 ### What I'll Have to Learn
 For the volunterr tracking , I will have to learn something new how to do ,If I chose to approve volunteer signup and 
